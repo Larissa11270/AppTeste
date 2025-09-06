@@ -23,4 +23,3 @@ namespace AppTeste
         }
     }
 }
-/Larissa Amaral
